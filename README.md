@@ -90,3 +90,7 @@ Add the locator/action to `todo.page.ts`, then a new `*.spec.ts` under `tests/to
 - New page/app entirely? Add `src/pages/<name>.page.ts` and `tests/<name>/`.
 - Tag new smoke-critical tests with `{ tag: '@smoke' }` so they're covered by `npm run test:smoke`.
 
+
+## Execution Terminal ScreenShot
+
+![alt text](<Screenshot 2026-09-26 at 1.23.23 PM.png>)
